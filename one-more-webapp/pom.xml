@@ -4,14 +4,4 @@
   <artifactId>one-more-webapp</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
-<<<<<<< HEAD
-  
 </project>
-=======
-  <dependency>
-<groupId>javax.servlet</groupId>
-<artifactId>javax.servlet-api</artifactId>
-<version>3.1.0</version>
-</dependency>
-</project>
->>>>>>> branch 'master' of https://github.com/monishacutty/sturdy-tribble.git
